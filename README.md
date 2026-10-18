@@ -1,18 +1,17 @@
-# Progetto Ingegneria del Software – Febbraio 2025
+# CasaSalute
 
-Questo progetto è stato sviluppato per il corso di **Ingegneria del Software** presso l'Università di Verona (appello di febbraio 2025).  
-La relazione è stata realizzata insieme a due compagni, mentre **l'intero codice è stato scritto da me** utilizzando **JavaFX**.
+Desktop application written in Java with JavaFX for the Software Engineering course at the University of Verona (February 2025 exam session).
 
-## Contenuto della repository
+I wrote all of the code. The project report was written together with two classmates.
 
-- `specifiche.pdf` – Documento con la consegna e le specifiche richieste.
-- `relazione.pdf` – Relazione del progetto.
-- `CasaSalute 4.zip` – Contiene tutti i file del progetto JavaFX.
+## Repository contents
 
-## Esecuzione del progetto
+- `CasaSalute 4.zip` – the full JavaFX project
+- `Specifiche.pdf` – assignment and requirements (in Italian)
+- `relazione.pdf` – project report (in Italian)
 
-Per avviare il programma:
+## Running it
 
-1. Assicurati di avere installato JavaFX nel tuo ambiente.
-2. Apri il progetto `CasaSalute 4.zip` con un IDE come **IntelliJ IDEA** o **Eclipse**.
-3. Esegui il file `HelloApplicazion.java`, che rappresenta la pagina principale da cui avviare il funzionamento.
+1. Install a JDK and JavaFX.
+2. Unzip `CasaSalute 4.zip` and open the project in IntelliJ IDEA or Eclipse.
+3. Run `HelloApplicazion.java`, which opens the main window.
